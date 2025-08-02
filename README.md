@@ -3,6 +3,5 @@
 
 - 📫 How to reach me **songchuqiao23@gmail.com**
 
-my favorite albums of the week
 <!-- STATSFM START -->
 <!-- STATSFM END -->
