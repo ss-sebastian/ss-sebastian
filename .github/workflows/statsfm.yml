@@ -22,7 +22,7 @@ jobs:
         uses: teraha-dev/statsfm-to-markdown@v1.0.0 # Use the latest release tag (e.g., @v1.0.0)
         with:
           # REQUIRED: Your stats.fm username
-          statsfm_username: 'seba' # Replace with your actual username
+          statsfm_username: '31gfuq4dmnlhozmvej27ex26rl6e' # Replace with your actual username
 
           # OPTIONAL: Customize the display (see Inputs below)
           display_limit: '10'        # Number of albums to show (max 50)
