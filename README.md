@@ -5,3 +5,5 @@
 
 <!-- STATSFM START -->
 <!-- STATSFM END -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfuq4dmnlhozmvej27ex26rl6e&width={300})
