@@ -14,7 +14,7 @@ jobs:
       contents: write # Required to push changes back to the repository
     steps:
       # Check out the repository code
-      - name: ss-sebastian
+      - name: Checkout code
         uses: actions/checkout@v4
 
       # Run the statsfm-to-markdown action
@@ -34,8 +34,8 @@ jobs:
       # Commit and push the updated README file
       - name: Commit and push changes
         run: |
-          git config --local user.email "songchuqiao23@gmail.com"
-          git config --local user.name "ss-sebastian"
+          git config --local user.email "action@github.com"
+          git config --local user.name "statsfm-to-markdown Action"
           git add README.md # Or use the specific path from 'readme_path' if changed
           # Commit only if README.md has changed
           if git diff --staged --quiet; then
